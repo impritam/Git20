@@ -1,5 +1,5 @@
 //This 2020 new year Statistics :)
-let old = 2019;
+let twentynineteen = 2019;
 let twentytwenty = 2020;
 let constantLearning = 'agree';
 function newYear(hardWork) {
