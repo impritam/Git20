@@ -1,13 +1,17 @@
-//This 2020 new year Statistics :)
-let twentynineteen = 2019;
-let twentytwenty = 2020;
-let constantLearning = 'agree';
+//This 2k20 new year Statistics :)
 function newYear(hardWork) {
-    if(hardWork === constantLearning){
-        console.log(twentytwenty + 'Is the year of' + ' smilling :) * + Learnig * + Savings *')
-    }else {
-        console.log(old + ' and 2020 is Error!');
-    }
+    for(i=1998; i< 2021; i++){
+        if(i != 2020 ){
+            console.log(i + ' forget it!')
+        }
+
+        if(i == 2020 ){
+            console.log( ' -- Happy new year  This is ' + i + ' enjoy it --');
+            console.log(' 2k20 Is the year of' + ' smilling :)* + Learnig* + Savings*');
+        }
+     }
 }
 
-newYear('agree');
+newYear();
+
+
